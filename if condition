@@ -1,0 +1,13 @@
+include <stdio.h>
+
+int main() {
+    int a;
+    // Write C code here
+    printf("Enter the a number:");
+    scanf("%d",&a);
+    if(a >50);
+    {
+        printf("%d is greater than 50",a);
+        return 0;
+    }
+}
